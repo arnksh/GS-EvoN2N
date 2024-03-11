@@ -1,2 +1,2 @@
 # GS-EvoN2N
-Guided Sampling-based Evolutionary Deep Neural Network
+Gauided Sampling-based Evolutionary Net2Net for architecture optimization
