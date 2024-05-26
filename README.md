@@ -13,4 +13,14 @@ Keywords: Neural architecture search; Intelligent fault diagnosis; Deep neural n
 
 
 Code for Benchmark methods:
-DNN: https://github.com/ArabelaTso/DeepFD DANN: https://github.com/NaJaeMin92/pytorch-DANN DTL: https://github.com/Xiaohan-Chen/transfer-learning-fault-diagnosis-pytorch DAFD: https://github.com/zggg1p/A-Domain-Adaption-Transfer-Learning-Bearing-Fault-Diagnosis-Model-Based-on-Wide-Convolution-Deep-Neu EvoDCNN: https://github.com/yn-sun/evocnn psoCNN: https://github.com/feferna/psoCNN
+DNN: https://github.com/ArabelaTso/DeepFD 
+
+DANN: https://github.com/NaJaeMin92/pytorch-DANN 
+
+DTL: https://github.com/Xiaohan-Chen/transfer-learning-fault-diagnosis-pytorch 
+
+DAFD: https://github.com/zggg1p/A-Domain-Adaption-Transfer-Learning-Bearing-Fault-Diagnosis-Model-Based-on-Wide-Convolution-Deep-Neu 
+
+EvoDCNN: https://github.com/yn-sun/evocnn 
+
+psoCNN: https://github.com/feferna/psoCNN
